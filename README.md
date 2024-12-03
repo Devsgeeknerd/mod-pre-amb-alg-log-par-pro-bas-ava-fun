@@ -16,4 +16,4 @@
 &nbsp;
 ![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/mod-pre-amb-alg-log-par-pro-bas-ava-fun?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![License](https://img.shields.io/github/license/Devsgeeknerd/?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/mod-pre-amb-alg-log-par-pro-bas-ava-fun?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
